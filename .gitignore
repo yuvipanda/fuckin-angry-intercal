@@ -20,6 +20,7 @@ buildaux/ylwrap
 buildaux/bconfigh.in
 buildaux/bconfig.h
 buildaux/configh.in
+buildaux/ar-lib
 # Executables produced by standard build
 bin2c
 convickt
