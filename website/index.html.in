@@ -112,6 +112,10 @@ unknown.</p>
 
 <h2>Other Tools</h2>
 
+<p>Move over, Ruby on Rails! Step aside, Cobol on Cogs! Finally 
+the web development framework you've always wanted: <a
+href="http://www.intercaloninterstates.org/">INTERCAL on Interstates</a>.</p>
+
 <p>Jonathan Ferro has written an <a
 href="calc-intercal.el">Intercal calculator mode</a> for Emacs.</p>
 
