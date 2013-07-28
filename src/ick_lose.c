@@ -42,7 +42,7 @@ void ick_lose(const char *m, int n, const char *s)
 	(void) fprintf(stderr, m + 4, s, n);
     else
 	(void) fprintf(stderr, m + 4, n);
-    (void) fprintf(stderr, "        CORRECT SOURCE AND RESUBNIT\n");
+    (void) fprintf(stderr, "        YOU FUCKING TWAT THAT WAS BAD TRY AGAIN\n");
     if(atoi(m)==778&&ick_coreonerr) /* AIS */
     {
       /* AIS: Dump core. */
@@ -65,7 +65,7 @@ void ick_lwarn(const char *m, int n, const char *s)
     (void) fprintf(stderr, m + 4, n);
   else
       (void) fputs(m + 4, stderr);
-  (void) fputs("        RECONSIDER SOURCE AND RESUBNIT\n\n", stderr);
+  (void) fputs("        PISS OFF AND TRY TO WRITE BETTER CODE\n\n", stderr);
   /* Don't exit. This is not any error except one not causing immediate
      termination of program execution. */
 }
